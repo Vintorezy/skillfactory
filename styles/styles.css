@@ -193,7 +193,7 @@ header {
 /* Banner Section */
 .main-section {
     height: 90vh;
-    background: url(/images/main-banner-img.jpg) no-repeat;
+    background: url('/skillfactory/images/main-banner-img.jpg') no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -360,7 +360,7 @@ header {
     position: absolute;
     left: 30.5px;
     top: 28.5px;
-    background: url(/images/icons/play-icon.svg) no-repeat;
+    background: url('/skillfactory/images/icons/play-icon.svg') no-repeat;
     background-position: center center;
 }
 
@@ -509,7 +509,7 @@ header {
 
 /* Advantage Section */
 .advantage-section {
-    background: url(/images/advantage-bg.png) no-repeat;
+    background: url('/skillfactory/images/advantage-bg.png') no-repeat;
     background-position: left center;
     padding: 20px 0;
 }
@@ -607,7 +607,7 @@ header {
 
 .promo-icon::before {
     content: ' ';
-    background: url(/images/icons/money-pig-promo.svg) no-repeat;
+    background: url('/skillfactory/images/icons/money-pig-promo.svg') no-repeat;
     width: 72px;
     height: 72px;
     background-position: center;
@@ -633,7 +633,7 @@ header {
 /* Photo Projects Section */
 .photo-projetcs-section {
     position: relative;
-    background: url(/images/projects-photo-bg.png) no-repeat;
+    background: url('/skillfactory/images/projects-photo-bg.png') no-repeat;
     background-size: cover;
     z-index: 0;
 }
@@ -692,7 +692,7 @@ header {
 
 .our-clients-section {
     padding-bottom: 400px;
-    background: url(/images/our-clients-bg.svg) repeat-x bottom;
+    background: url('/skillfactory/images/our-clients-bg.svg') repeat-x bottom;
 }
 
 
@@ -761,7 +761,7 @@ header {
 }
 
 .bottom-section {
-    background: url(/images/bottom-container-bg.jpg) no-repeat;
+    background: url('/skillfactory/images/bottom-container-bg.jpg') no-repeat;
     background-size: cover;
     padding: 250px 0 100px 0;
     margin-top: -250px;
@@ -1253,7 +1253,7 @@ and (max-width: 1024px) {
 
     .reviews-inner::before {
         content: ' ';
-        background: url('/images/icons/mobile-slider-left.svg') no-repeat;
+        background: url('/skillfactory/images/icons/mobile-slider-left.svg') no-repeat;
         background-size: cover;
         width: 30px;
         height: 30px;
@@ -1264,7 +1264,7 @@ and (max-width: 1024px) {
 
     .reviews-inner::after {
         content: ' ';
-        background: url('/images/icons/mobile-slider-right.svg') no-repeat;
+        background: url('/skillfactory/images/icons/mobile-slider-right.svg') no-repeat;
         background-size: cover;
         width: 30px;
         height: 30px;
